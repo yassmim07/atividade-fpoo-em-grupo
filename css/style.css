@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: cadetblue;
+}
+
+
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inicio{
+    width: 30%;
+    height: 30%;
+}
+
+
+h1{
+    text-align: center;
+}
+
+.nohtml{
+    width: 70%;
+    height: 20%;
+}
+
+.nocss{
+    width: 40%;
+    height: 60%;
+
+}
+
+.resultado{
+    width: 50%;
+    height: 50%;
+    border: solid 1px black;
+}
+
